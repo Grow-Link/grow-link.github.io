@@ -1,0 +1,5 @@
+url: "" # the base hostname & protocol for your site, e.g. https://growlink.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "GrowLink"
+wiki_label: "GrowLink" # short label shown at the top of the sidebar
+github_username: "" # TODO: e.g. GrowLink
